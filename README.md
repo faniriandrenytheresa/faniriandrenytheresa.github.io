@@ -60,3 +60,5 @@ Pour exécuter ce projet localement :
 1. **Clonez le dépôt** :
    ```bash
    git clone https://github.com/faniriandrenytheresa/faniriandrenytheresa.github.io.git
+### Plus d'information
+harenafitia2000@gmail.com
